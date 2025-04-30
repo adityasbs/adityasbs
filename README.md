@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @adityasbs
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning language
--  How to Reach Me E-mail adityasbs09@gmail.com
+-  How to reach me e-mail adityasbs09@gmail.com
