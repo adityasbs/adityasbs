@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @adityasbs
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning language
-- ⚡ Fun fact: i love football
+- ⚡ E-mail adityasbs09@gmail.com
 
 <!---
 adityasbs/adityasbs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
